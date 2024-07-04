@@ -1,0 +1,21 @@
+.label {
+    -fx-text-fill: #333333;
+    -fx-font-size: 14px;
+}
+
+.text-field, .password-field {
+    -fx-font-size: 14px;
+    -fx-prompt-text-fill: #CCCCCC;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #4CAF50; /* Green */
+    -fx-text-fill: white;
+    -fx-padding: 8px 14px;
+    -fx-border-radius: 3px;
+}
+
+.button:hover {
+    -fx-background-color: #45a049; /* Darker Green */
+}
